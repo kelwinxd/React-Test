@@ -1,4 +1,15 @@
 
+     <style>
+  body {
+    background-color: black;
+
+  }
+
+  p, h2, h1 {
+    color: white;
+  }
+    </style>
+ 
  <h2>Fetch, Responsiveness and Usestate</h2>
     <p>Trainning to fetch data and showing its properties.</p>
 
