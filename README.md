@@ -10,7 +10,7 @@
 
 
  <h2> Code Showingcase</h2>
- <p> Fetch withiout async, just using it directly, and catching data. </p>
+ <p> Fetch without async, just using it directly, and catching data. </p>
 <img  src="src/assets/gif2.gif" width="700px" height="500px" style="text-align:center">
 
 
